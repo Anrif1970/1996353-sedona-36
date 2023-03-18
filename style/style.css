@@ -169,16 +169,24 @@ position: relative;
 /*-------------------------search-menu----------------------- */
 /*-------------------------- main-------------------- */
 .hero {
-  background-color: #fff;
-  background-image: url("../img/hero-background.jpg");
-  background-repeat: no-repeat;
-  /* height: 767px; */
+
+}
+
+.welcom-img {
+  margin: 51px 371px 20px;
+}
+
+.background-hero {
+  background: url("../img/hero-background.jpg") no-repeat;
+  height: 489px;
   margin-bottom: 0;
 }
 
-.hero img:first-child {
-  margin: 51px 371px 22px;
+.bottom-wide-arrow {
+  height: 57px;
+  background: url("../img/bottom-vector.png") no-repeat ;
 }
+
 
 /* класс для широких подзаголовков frame-for-h2 ------------------ */
 
